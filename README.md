@@ -246,6 +246,7 @@ Batch Processing Completed Successfully
 
 ## Author
 
+*Pradeep E*
 
 Johns Hopkins University
 CUDA at Scale for the Enterprise Specialization

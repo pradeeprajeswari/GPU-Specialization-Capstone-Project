@@ -246,7 +246,6 @@ Batch Processing Completed Successfully
 
 ## Author
 
-**Shanmuga Vasanth M**
 
 Johns Hopkins University
 CUDA at Scale for the Enterprise Specialization
